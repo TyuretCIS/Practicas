@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" type="text/css" href="css/practica2evaluacion.css">
+	<title>Document</title>
+</head>
+<body>
+	<header>
+
+		<div class="logo">
+			<img src="img/MySQL-logo.png" alt="Soy una imagen">
+			<p class="opcion1"> MYSQL.COM </p>
+			<p class="opcion2"> DOWNLOADS </p>
+			<p class="opcion3"> DOCUMENTATION </p>
+			<p class="opcion4"> DEVELOPER </p> 
+			<p class="opcion5"> ZONE </p>
+		</div>
+
+		<div class="buscador">
+			<i> The world's most popular open source database </i>
+			<div><input type="search"id="Buscador"/> </div>
+		</div>
+
+		<div id="contact">
+			<h5> Contact MySQL | Login | Register </h5>
+		</div>
+
+		<hr size="2" color="grey" width="100px">
+	
+		<br>
+	
+		<div class="random1">
+			<div> HOLA </div>
+		</div>
+	
+		<div class="rectangulo"> &nbsp;
+			<div> Products </div>
+			<div> Cloud </div>
+			<div> Services </div>
+			<div> Partners </div>
+			<div> Costumers </div>
+			<div> Why MySQL? </div>
+			<div> News & Events </div>
+			<div> How to Buy </div>
+		</div>
+
+        <div class="redes">
+            <img src="img/redes.png">
+        </div>
+	
+		<div class="random2">
+			<div> HOLA </div>
+		</div>
+	
+		<br>
+	
+	</header>
+	
+	<div class="gris">
+		<h3> MySQL HeatWave - One MySQL Database service for OLTP, OLAP, and ML </h3>
+	</div>
+
+	<section>
+		<div>
+			<img class="logito" src="img/logito.png">
+		</div>
+	</section>
+
+	<br>
+
+	<section class="espacio">
+		<br>
+		<div class="heatwave">
+			<p> MySQL HeatWave - One MySQL Database service for OLTP, OLAP, and ML </p>
+		</div>
+	</section>
+
+	<section class="cuadrado">
+        <article class="division">
+            <div>
+                <img src="img/nube.png" alt=""id="ima">
+                <div id="DETALLE"><h2 id="puntito">MySQL HeatWave</h2><p>MySQL HeatWave is a fully managed service that enables customers to run OLTP, OLAP,and machine learning workloads directly from their MySQL Database.HeatWave boosts MySQL performance by 5400x.</p> <a href="https://www.mysql.com">Learn More »</a></div>
+            </div>
+            <div>
+               <img src="img/circunferencias.png" alt="" id="ima">
+                <div id="DETALLE"><h2 id="puntito">MySQL Enterprise Edition</h2> <p>The most comprehensive set of advanced features, management tools and technical support to achieve the highest levels of MySQL scalability, security, reliability, and uptime.</p><a href="https://www.mysql.com">Learn More »</a></div> 
+            </div>
+        </article>
+        <article class="division">
+            <div>
+                <img src="img/pantallita.png" alt=""id="ima">
+                <div id="DETALLE"><h2 id="puntito">MySQL for OEM/ISV</h2><p>Over 2000 ISVs, OEMs, and VARs rely on MySQL as their products' embedded database to make their applications, hardware and appliances more competitive, bring them to market faster, and lower their cost of goods sold.</p> <a href="https://www.mysql.com">Learn More »</a></div>
+            </div>
+            <div class="mundo">
+               <img src="img/mundo.png" alt="" id="ima">
+                <div id="DETALLE"><h2 id="puntito">MySQL Cluster CGE</h2> <p>MySQL Cluster enables users to meet the database challenges of next generation web, cloud, and communications services with uncompromising scalability, uptime and agility.</p><a href="https://www.mysql.com">Learn More »</a></div> 
+            </div>
+        </article>
+    </section>
+
+	<section class="blocardo">
+        <article class="bloque">
+            <div><h2 id="puntito"><img src="img/pccito.png" alt=""> <br> <br> <br> <br> Free Webinars</h2></div>
+            <div>
+                <ul >
+                    <li id="puntito"> <a href="https://www.mysql.com/why-mysql/white-papers/mysql-heatwave-lakehouse/"id="link">How Sam.ai Doubled its Conversational AI Output with MySQL High Availability Architecture on OCI</a> <br> <span>On Demand</span>  </li> 
+                    <li id="puntito"><a href="https://www.mysql.com/why-mysql/white-papers/mysql-heatwave-lakehouse/"id="link">Hands-On Lab: Building Machine Learning Models with MySQL HeatWave</a> <br> <span>On demand</span> </li> 
+                    <li id="puntito"> <a href="https://www.mysql.com/why-mysql/white-papers/mysql-heatwave-lakehouse/"id="link"> MySQL as an Embedded Database for ISVs</a> <br> <span>On Demand</span></li> 
+                    <a href="https://www.mysql.com/why-mysql/white-papers/mysql-heatwave-lakehouse/"  id="link">MORE>>></a>
+                </ul>
+            </div>
+        </article>
+        <article class="bloque">
+            <div><h2 id="puntito"><img src="img/papeles.png" alt=""> <br> <br> <br> White Papers </h2></div>
+            <div >
+                <ul>
+                    <li id="puntito"><a href="https://www.mysql.com/why-mysql/white-papers/mysql-heatwave-lakehouse/" id="link"> MySQL HeatWave Lakehouse</a></li> <br>
+                    <li id="puntito"><a href="https://www.mysql.com/why-mysql/white-papers/mysql-heatwave-lakehouse/"id="link">MySQL HeatWave on AWS</a></li> <br>
+                    <li id="puntito"><a href="https://www.mysql.com/why-mysql/white-papers/mysql-heatwave-lakehouse/"id="link">Introduction to MySQL and Healthcare</a></li> <br>
+                    <li id="puntito"><a href="https://www.mysql.com/why-mysql/white-papers/mysql-heatwave-lakehouse/"id="link">Technical Guide to HeatWave AutoML</a></li> <br>
+                    <li id="puntito"><a href="https://www.mysql.com/why-mysql/white-papers/mysql-heatwave-lakehouse/"id="link">Guide to MySQL in Fintech and Financial Services</a></li> <br>
+                    <a href="https://www.mysql.com/why-mysql/white-papers/mysql-heatwave-lakehouse/" id="link">MORE>>></a> <br>
+                </ul>
+            </div>
+        </article>
+    </section>
+
+	<div>
+		
+
+		<h2> Some our costumers </h2>
+		
+		</div>	
+		
+		<div>
+
+			<img src="img/1.png">
+			<img src="img/2.png">
+			<img src="img/3.png">
+			<img src="img/4.png">
+			<img src="img/5.png">
+			<img src="img/6.png">
+			<img src="img/7.png">
+			<img src="img/8.png">
+			<img src="img/9.png">
+			<img src="img/10.png">
+			<img src="img/11.png">
+			<img src="img/12.png">
+			<img src="img/13.png">
+			<img src="img/14.png">
+			<img src="img/15.png">
+			<img src="img/16.png">
+			<img src="img/17.png">
+			<img src="img/18.png">
+			<img src="img/19.png">
+			<img src="img/20.png">
+			<img src="img/21.png">
+			<img src="img/22.png">
+			<img src="img/23.png">
+			<img src="img/24.png">
+
+		</div>
+	</div>
+
+	<section id="footer">
+        <article class="contenedor">
+            <div class="telefono">
+                <img src="img/telefono.png" alt="100px">
+            </div>
+            <div class="caja c2">
+                <div class="contenedor2">Contact MySQL Sales</div>
+                <div class="contenedor3">USA/Canada: +1-866-221-0634  <a href="https://www.mysql.com/why-mysql/white-papers/mysql-heatwave-lakehouse/">(More Countries »)</a></div>
+            </div>
+            <div class="login"><img src="img/face.png" alt=""><img src="img/twi.png" alt=""><img src="img/in.png" alt=""><img src="img/you.png" alt=""></div>
+        </article>
+    </section>
+    <footer>
+        <section class="listitas"> 
+            <ul>
+                <h2>PRODUCTS</h2>
+                <li><a href="https://www.mysql.com/products/enterprise/"> MySQL HeatWave </a> </li>
+                <li><a href="https://www.mysql.com/products/enterprise/"> MySQL Enterprise Edition </a> </li>
+                <li><a href="https://www.mysql.com/products/enterprise/"> MySQL Standard Edition </a></li>
+                <li><a href="https://www.mysql.com/products/enterprise/"> MySQL Classic Edition </a></li>
+                <li><a href="https://www.mysql.com/products/enterprise/"> MySQL Cluster CGE </a> </li>
+                <li><a href="https://www.mysql.com/products/enterprise/"> MySQL as an Embedded Database </a> </li>
+            </ul>
+            <ul>
+                <h2>SERVICES</h2>
+                <li> <a href="https://www.mysql.com/products/enterprise/"> Training </a> </li>
+                <li> <a href="https://www.mysql.com/products/enterprise/"> Certification </a> </li>
+                <li> <a href="https://www.mysql.com/products/enterprise/"> Consulting </a> </li>
+                <li> <a href="https://www.mysql.com/products/enterprise/"> Support </a> </li>
+            </ul>
+            <ul>
+                <h2>DOWNLOADS</h2>
+                <li> <a href="https://www.mysql.com/products/enterprise/"> MySQL Community Server </a></li>
+                <li> <a href="https://www.mysql.com/products/enterprise/"> MySQL NBD Clouster</a> </li>
+                <li> <a href="https://www.mysql.com/products/enterprise/"> MySQL Shell</a> </li>
+                <li> <a href="https://www.mysql.com/products/enterprise/"> MySQL Router</a> </li>
+                <li> <a href="https://www.mysql.com/products/enterprise/"> MySQL Workbech</a> </li>
+            </ul>
+            <ul>
+                <h2>DOCUMENTATION</h2>
+                <li> <a href="https://www.mysql.com/products/enterprise/"> MySQL Reference Manul</a> </li>
+                <li> <a href="https://www.mysql.com/products/enterprise/"> MySQL workbech </a> </li>
+                <li> <a href="https://www.mysql.com/products/enterprise/"> MySQL NDB Clouster </a> </li>
+                <li> <a href="https://www.mysql.com/products/enterprise/"> MySQL conectors </a></li>
+                <li> <a href="https://www.mysql.com/products/enterprise/"> Topic Guides </a> </li>
+            </ul>
+            <ul>
+               <h2>ABOUT MYSQL</h2>
+               <li> <a href="https://www.mysql.com/products/enterprise/"> Contact Us </a> </li>
+               <li> <a href="https://www.mysql.com/products/enterprise/"> Blogs </a> </li>
+               <li> <a href="https://www.mysql.com/products/enterprise/"> How to Buy </a> </li>
+               <li> <a href="https://www.mysql.com/products/enterprise/"> Partners </a> </li>
+               <li> <a href="https://www.mysql.com/products/enterprise/"> Job Opportunities </a> </li>
+               <li> <a href="https://www.mysql.com/products/enterprise/"> Site Map </a> </li>
+            </ul>
+        </section>
+        <section id="seccion1">
+            <article>
+                <img src="img/tierra.png" alt="">  English  (
+                <a href="https://www.mysql.com/de/"> Deutsch </a> |
+                <a href="https://www.mysql.com/fr/"> Français </a> |
+                <a href="https://www.mysql.com/it/"> Italiano </a> |
+                <a href="https://www.mysql.com/jp/"> 日本 </a> |
+                <a href="https://www.mysql.com/cn/"> 中文 </a>
+                )
+            </article>
+        </section>
+        <section id="seccion2">
+            <article>
+                <div>
+                    <img class="oracle" src="img/oracle.png" alt=""><a class="oracle2" href="https://www.mysql.com/about/contact/phone/">© 2023 Oracle</a>
+                </div>
+                <div id="seccion1">
+                    <a href="https://www.oracle.com/legal/privacy/"> Privacy </a> |
+                    <a href="https://www.oracle.com/legal/privacy/"> Do Not Sell My Info </a> |
+                    <a href="https://www.oracle.com/legal/privacy/"> Terms of Use </a> |
+                    <a href="https://www.oracle.com/legal/privacy/"> Trademark Policy </a> |
+                    <a href="https://www.oracle.com/legal/privacy/"> Preferencias sobre cookies </a> |
+                </div>
+            </article>
+        </section>
+    </footer>
+
+</body>
+</html>
